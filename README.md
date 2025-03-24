@@ -9,3 +9,5 @@
 - Handled Object Id errors (400)
 
 I added a few users to the database manually, then tested out a few requests to the endpoint:
+
+<img width="984" alt="Screenshot 2025-03-23 at 9 41 47 PM" src="https://github.com/user-attachments/assets/1dc3a680-7f4c-4bc1-a3f1-225ee98a3b68" />

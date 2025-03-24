@@ -1,6 +1,6 @@
 ## Centivo Takehome Challenge
 
-- Created /users/:id endpoint
+- Created [/users/:id](https://github.com/RonuGhoshal/centivo-takehome-challenge/blob/main/server.js#L11) endpoint
 
 - Handled success response (200)
 
